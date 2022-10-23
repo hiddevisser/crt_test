@@ -10,4 +10,5 @@ Library    QVision
 
 Test
     [Documentation]    Test Case created using the QEditor
-    ClickIcon      button.png    tol=0.5
+    # ClickIcon      button.png    tol=0.5
+    ClickText      Try Again     anchor=Do this for all current items
