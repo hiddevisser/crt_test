@@ -12,3 +12,4 @@ Test
     [Documentation]    Test Case created using the QEditor
 
     OpenBrowser    about:blank    chrome
+    ClickIcon      test
