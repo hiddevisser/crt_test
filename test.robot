@@ -10,4 +10,4 @@ Library    QVision
 
 Test
     [Documentation]    Test Case created using the QEditor
-    ClickIcon      button    tol=0.5
+    ClickIcon      button.png    tol=0.5
