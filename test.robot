@@ -10,4 +10,4 @@ Library    QVision
 
 Test
     [Documentation]    Test Case created using the QEditor
-    ClickIcon      test
+    ClickIcon      Try Again    tol=0.5
